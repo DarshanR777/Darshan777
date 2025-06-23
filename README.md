@@ -19,7 +19,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Embedded Systems, Rust**
+- 🌱 I’m currently learning **Embedded Systems, RUST**
 - 🤝 I’m looking for help with **Android Application Development**
 - 📫 Reach me at: **darshangowdar29@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1QN-lFdkNZ-zFLLlqkv-SHEPrqDIm_qcw/view?usp=sharing)
