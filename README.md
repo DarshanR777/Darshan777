@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DARSHAN GOWDA R</h1>
-<h3 align="center">Engineer | Java Developer | Hardware-Aware Coder <br> From Bits to Bytes, and Bugs to Brilliance</h3>
+<h3 align="center">Electronics and Communication Engineer | Java Developer | Hardware-Aware Coder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darshanr777&label=Profile%20views&color=0e75b6&style=flat" alt="darshanr777" />
@@ -30,19 +30,19 @@
 
 <p align="left">
   <a href="https://twitter.com/darshanrgowda6" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />&nbsp;&nbsp;
   </a>
   <a href="https://linkedin.com/in/darshan-gowda-r-8041371bb" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />&nbsp;&nbsp;
   </a>
   <a href="https://instagram.com/darshu_rgowda" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />&nbsp;&nbsp;
   </a>
   <a href="https://www.hackerrank.com/darshangowdar29" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />&nbsp;&nbsp;
   </a>
   <a href="https://www.leetcode.com/darshanr777" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />&nbsp;&nbsp;
   </a>
   <a href="https://auth.geeksforgeeks.org/user/user_eob5eq6zb6g" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
